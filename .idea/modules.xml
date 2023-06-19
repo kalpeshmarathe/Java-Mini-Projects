@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/DSA@2.iml" filepath="$PROJECT_DIR$/.idea/DSA@2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear_data_structure/Linear_data_structure.iml" filepath="$PROJECT_DIR$/Linear_data_structure/Linear_data_structure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Linear_data_structure/Mini Projects/Mini Projects.iml" filepath="$PROJECT_DIR$/Linear_data_structure/Mini Projects/Mini Projects.iml" />
+    </modules>
+  </component>
+</project>
